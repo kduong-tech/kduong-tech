@@ -8,13 +8,13 @@ Information Systems student with hands-on tech support experience, cybersecurity
 ## Skills
 | Skill | Project |
 |-------|---------|
-| Linux permissions & user management | *Coming Soon* |
-| Log analysis & security monitoring | *Coming Soon* |
-| Networking (TCP/IP, DHCP, DNS, VPN) | *Coming Soon* |
-| System troubleshooting & diagnostics | Real-world IT support |
-| SQL querying & data filtering | Plano Bookstore DB |
-| Incident documentation | *Coming Soon* |
-
+| Conducting a security audit | *Coming Soon* |
+| Analyzing network structure and security | *Coming Soon* |
+| Using Linux commands to manage file permissions | *Coming Soon* |
+| Applying filters to SQL queries | *Coming Soon* |
+| Identifying vulnerabilities for a small business | *Coming Soon* |
+| Documenting incidents with an incident handlerʼs journal | *Coming Soon* |
+| Importing and parsing a text file in a security-related scenario | *Coming Soon* |
 ---
 
 ## Tools
