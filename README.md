@@ -9,12 +9,12 @@ Information Systems student with hands-on tech support experience, cybersecurity
 | Skill | Project |
 |-------|---------|
 | Conducting a security audit | (https://github.com/kduong-tech/Conduct-a-security-audit) |
-| Analyzing network structure and security | *Coming Soon* |
-| Using Linux commands to manage file permissions | *Coming Soon* |
-| Applying filters to SQL queries | *Coming Soon* |
-| Identifying vulnerabilities for a small business | *Coming Soon* |
-| Documenting incidents with an incident handlerʼs journal | *Coming Soon* |
-| Importing and parsing a text file in a security-related scenario | *Coming Soon* |
+| Analyzing network structure and security | https://github.com/kduong-tech/Analyze-a-vulnerable-system-for-a-small-business |
+| Using Linux commands to manage file permissions | https://github.com/kduong-tech/Use-linux-commands-to-manage-file-permissions |
+| Applying filters to SQL queries | https://github.com/kduong-tech/Apply-filters-to-SQL-queries |
+| Analyze vulnerabilities for a small business | https://github.com/kduong-tech/Analyze-a-vulnerable-system-for-a-small-business |
+| Documenting incidents with an incident handlerʼs journal | https://github.com/kduong-tech/Document-an-incident-with-an-incident-handler-s-journal |
+| Use the NIST Cybersecurity Framework to respond to a security incident | https://github.com/kduong-tech/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident |
 ---
 
 ## Tools
