@@ -10,6 +10,7 @@ Information Systems student with hands-on tech support experience, cybersecurity
 |-------|---------|
 | Conducting a security audit | (https://github.com/kduong-tech/Conduct-a-security-audit) |
 | Using Linux commands to manage file permissions | https://github.com/kduong-tech/Use-linux-commands-to-manage-file-permissions |
+| Update a file through a python algorithm | https://github.com/kduong-tech/Update-a-file-through-a-python-algorithm |
 | Applying filters to SQL queries | https://github.com/kduong-tech/Apply-filters-to-SQL-queries |
 | Analyze vulnerabilities for a small business | https://github.com/kduong-tech/Analyze-a-vulnerable-system-for-a-small-business |
 | Documenting incidents with an incident handlerʼs journal | https://github.com/kduong-tech/Document-an-incident-with-an-incident-handler-s-journal |
