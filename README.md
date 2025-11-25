@@ -9,7 +9,6 @@ Information Systems student with hands-on tech support experience, cybersecurity
 | Skill | Project |
 |-------|---------|
 | Conducting a security audit | (https://github.com/kduong-tech/Conduct-a-security-audit) |
-| Analyzing network structure and security | https://github.com/kduong-tech/Analyze-a-vulnerable-system-for-a-small-business |
 | Using Linux commands to manage file permissions | https://github.com/kduong-tech/Use-linux-commands-to-manage-file-permissions |
 | Applying filters to SQL queries | https://github.com/kduong-tech/Apply-filters-to-SQL-queries |
 | Analyze vulnerabilities for a small business | https://github.com/kduong-tech/Analyze-a-vulnerable-system-for-a-small-business |
